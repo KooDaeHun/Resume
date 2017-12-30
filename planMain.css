@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+	
+	table{border-spacing: 0px; border-style: none; padding: 0px; margin: auto;}
+	td{border-spacing: 0px; border-style: none; padding: 0px;}
+
+	.planTitle{text-align: center; display: block; line-height: 130px; font-size: 60px;
+			   font-weight: bolder;
+			   background: -webkit-linear-gradient(yellow, red);
+			   -webkit-background-clip: text; -webkit-text-fill-color: transparent;}
+	.wrapper{width: 900px; height: 900px; border: 1px solid black;}
+	.smallBox{width: 300px; height: 300px; border: 0.1px solid black;}
+	.plan{width: 100px; height: 100px; border: 0.1px dotted black;}
+
+	#box5{background-color: #FFBB00;}
+	.boxCenter{background-color: #FF0000;}
